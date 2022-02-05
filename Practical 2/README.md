@@ -2,10 +2,8 @@ Question 3:
 
 Compile and run using:
 
-     scalac UnboundedBuffer.scala
+    scalac UnboundedBuffer.scala
     scala UnboundedBuff
-  
-I feel like the implementation for this one is straight-forward enough.
 
 Question 4:
 
@@ -13,3 +11,10 @@ Compile and run using:
 
     scalac Adaptive.scala AdaptiveTest.scala Trapezium.scala TrapeziumTest.scala
     scala AdaptiveTest
+    
+Question 5:
+
+Compile and run using:
+
+     scalac PairingServer.scala PairingServerTest.scala
+     scala PairingServerTest
