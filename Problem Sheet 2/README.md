@@ -18,3 +18,10 @@ Compile and run using:
 
      scalac PairingServer.scala PairingServerTest.scala
      scala PairingServerTest
+     
+Question 6:
+
+Compile and run using:
+
+    scalac Ring.scala RingTest.scala
+    scala RingTest
