@@ -19,6 +19,9 @@ Question 4:
     scalac ToroidalGrid.scala
     scala GridMaxTest
     
-(b) 
+(b) Please compile and run with:
+
+    scalac LogToroidalGrid.scala
+    scala LogGridMaxTest
     
     
