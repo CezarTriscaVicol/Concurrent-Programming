@@ -12,4 +12,13 @@ Please compile and run with:
     scalac PrefixSum.scala
     scala PrefixSums.scala
     
+Question 4:
+
+(a) Please compile and run with:
+
+    scalac ToroidalGrid.scala
+    scala GridMaxTest
+    
+(b) 
+    
     
