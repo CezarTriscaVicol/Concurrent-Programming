@@ -33,4 +33,10 @@ Compile and run with:
     scalac Smoothing.scala
     scala SmoothSharedTest
     
+Question 7:
+
+Compile with:
+
+    scalac Synchronisation.scala
+    
     
