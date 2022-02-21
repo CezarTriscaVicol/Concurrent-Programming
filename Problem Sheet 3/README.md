@@ -26,4 +26,11 @@ Compile with:
 
     scala GridMaxTest --useLog
     
+Question 5:
+
+Compile and run with:
+
+    scalac Smoothing.scala
+    scala SmoothSharedTest
+    
     
