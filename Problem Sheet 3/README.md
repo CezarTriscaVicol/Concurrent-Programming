@@ -14,14 +14,16 @@ Please compile and run with:
     
 Question 4:
 
-(a) Please compile and run with:
-
+Compile with:
+    
     scalac ToroidalGrid.scala
+
+(a) Run with:
+
     scala GridMaxTest
     
 (b) Please compile and run with:
 
-    scalac LogToroidalGrid.scala
-    scala LogGridMaxTest
+    scala GridMaxTest --useLog
     
     
