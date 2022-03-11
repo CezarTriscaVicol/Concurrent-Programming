@@ -10,7 +10,7 @@ Question 3:
 Please compile and run with:
 
     scalac PrefixSum.scala
-    scala PrefixSums.scala
+    scala PrefixSumsTest
     
 Question 4:
 
