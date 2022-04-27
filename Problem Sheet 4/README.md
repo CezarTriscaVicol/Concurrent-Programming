@@ -7,4 +7,11 @@ Please compile and run with:
       
 Question 3:
 
+Please compile and run with:
+
+      scalac TreeSumTester.scala
+      scala TreeSumTest
+      
+ 
+
 
