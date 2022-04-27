@@ -28,7 +28,7 @@ Please compile and run with:
 
 I didn't quite know how to adapt it to the linearization framework to be honest.
 
-Question 6:
+Question 7:
 
 Please compile and run with:
 
