@@ -19,6 +19,16 @@ Please compile and run with:
       scalac SemaphoreSynchronization.scala SemSyncTest.scala
       scala SemSyncTest
       
+Question 6:
+
+Please compile and run with:
+
+      scalac BoundedBuffer.scala
+      scala BoundedBuff
+
+I didn't quite know how to adapt it to the linearization framework to be honest.
+
+      
  
  
 
