@@ -12,6 +12,14 @@ Please compile and run with:
       scalac TreeSumTester.scala
       scala TreeSumTest
       
+Question 5:
+
+Please compile and run with:
+
+      scalac SemaphoreSynchronization.scala SemSyncTest.scala
+      scala SemSyncTest
+      
+ 
  
 
 
